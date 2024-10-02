@@ -120,3 +120,5 @@ Explore Git hooks to automate tasks.
 **Important Notes on GitHub**
 
 - You should know how git diff works
+
+- You should also be familiar with the concept of forking
