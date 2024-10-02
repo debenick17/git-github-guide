@@ -116,3 +116,7 @@ Consider using a Git GUI client for a more visual experience.
 Regularly back up your repositories.
 Explore Git hooks to automate tasks.
 ```
+
+**Important Notes on GitHub**
+
+- You should know how git diff works
